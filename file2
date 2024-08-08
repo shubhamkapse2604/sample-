@@ -7,5 +7,6 @@ print("Hello, World!")
 name = input("What's your name? ")
 
 # Print a personalized message
-print("Nice to meet you, " + nickname + "!")
+print("Nice to meet you, " + name + "!")
+
 
